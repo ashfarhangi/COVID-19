@@ -7,7 +7,7 @@ Instructions on setting up your project locally or on a cloud platform. To get a
 
 Gathered State-level data: 
 
-![](https://github.com/ashfarhangi/COVID-19_Impact/blob/master/visualization/state-level-data.png)
+![](https://github.com/ashfarhangi/COVID-19/blob/master/visualization/state-level-data.png)
 
 
 loc: data/COVID19_state.xlsx
@@ -21,13 +21,13 @@ loc: data/COVID19_state.xlsx
 
 ### Installation
 
-![](https://github.com/ashfarhangi/COVID-19_Impact/blob/master/visualization/heat-map.png)
+![](https://github.com/ashfarhangi/COVID-19/blob/master/visualization/heat-map.png)
 
 
 1. Clone the repo
 
    ```
-   git clone https://github.com/ashfarhangi/COVID-19_Impact.git
+   git clone https://github.com/ashfarhangi/COVID-19.git
    ```
 
 2. Install requirement packages
