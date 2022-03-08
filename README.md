@@ -12,4 +12,4 @@ Farhangi, A., Huang, A. and Guo, Z., A Novel Deep Learning Model For Hotel Deman
   booktitle={Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS 2022)},
   year={2022},
   organization={HICSS-55}
-}```
+}
