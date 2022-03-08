@@ -1,4 +1,4 @@
-# COVID-19_Impact
+# COVID-19 
 A repository for COVID-19 factors and impacts on US economy
 
 Instructions on setting up your project locally or on a cloud platform. To get a local copy up and running follow these simple example steps.
