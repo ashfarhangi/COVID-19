@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+sklearn
+seaborn
+pickle
+joblib
+tqdm
+pkbar
+us
+pycountry-convert
+tensorflow
+keras
