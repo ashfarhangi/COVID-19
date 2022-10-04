@@ -6,7 +6,6 @@
 [![Conference](http://img.shields.io/badge/HICSS-2022-4b44ce.svg)](https://arxiv.org/abs/2203.04383)
 </div>
 
-## Citation:
 
 If you find this code or idea useful, please consider citing our work:
 
