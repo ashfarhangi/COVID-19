@@ -20,6 +20,7 @@ Farhangi, A., Huang, A. and Guo, Z., A Novel Deep Learning Model For Hotel Deman
   year={2022},
   organization={HICSS-55}
 }
+```
 
 
 A repository for COVID-19 factors and impacts on US economy.
