@@ -7,7 +7,7 @@
 </div>
 
 
-If you find this code or idea useful, please consider citing our work:
+Citation for code, data, or paper is as below: 
 
 
 Farhangi, A., Huang, A. and Guo, Z., A Novel Deep Learning Model For Hotel Demand and Revenue Prediction amid COVID-19. Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS), 2022
