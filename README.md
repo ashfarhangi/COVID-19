@@ -7,7 +7,9 @@
 </div>
 
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=ashfarhangi/COVID-19&type=Date)](https://star-history.com/#ashfarhangi/COVID-19&Date)
 
 
 A repository for COVID-19 factors and impacts on US economy.
