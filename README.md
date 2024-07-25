@@ -40,9 +40,6 @@ Gathered State-level data:
 loc: data/COVID19_state.xlsx
 
 
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ashfarhangi/COVID-19&type=Date)](https://star-history.com/#ashfarhangi/COVID-19&Date)
-
 ### Prerequisites
 
 - Tensorflow 2.0.2
